@@ -1,5 +1,9 @@
 # offen-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/offen-or-just-updated-google-analytics-a?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Offen template](https://railway.com/deploy/offen-or-just-updated-google-analytics-a?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Railway wrapper image for [Offen Fair Web Analytics](https://www.offen.dev/), pinned to
 upstream `v1.4.2` by digest.
 
